@@ -1,4 +1,4 @@
-        👋 Hi, I’m @Freddibiri
+- 👋 Hi, I’m @Freddibiri
         
 - 👀 I’m interested in Robotics and is the only thing is on my mind.
 - 🌱 I’m currently learning Multibody Dynamics to be applied on robotics
